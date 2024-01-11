@@ -4,4 +4,5 @@ Aplicação de um portfolio para conhecer o desenvolvedor e seus projetos e tamb
 
 ## Ferramentas/Dependências utilizadas
 
-- tailwindcss 
+- tailwindcss
+- uuid `npm install uuid` `npm install --save @types/uuid`

@@ -14,8 +14,19 @@ const config: Config = {
         "quickSand": ['Quicksand', 'sans-serif'],
         "notoSans": ['Noto Sans', 'sans-serif'],
       },
+      keyframes: {
+        "downUp": {
+          "0%": { top: "-2.5%" },
+          "50%": { top: "103%" },
+          "100%": { top: "-2.5%" },
+        }
+      },
       colors: {
-        "oi": "#f00"
+        "light": "#ffffffdf",
+        "red": "#d60101d5",
+        "darkRed": "#dd000070",
+        "textColor": "#ffffffc0",
+        "primaryBg": "#040D12",
       }
     },
   },
