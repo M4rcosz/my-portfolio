@@ -25,7 +25,7 @@ const config: Config = {
         "light": "#ffffffdf",
         "red": "#d60101d5",
         "darkRed": "#dd000070",
-        "textColor": "#ffffffc0",
+        "textColor": "#ffffffa0",
         "primaryBg": "#040D12",
       }
     },
