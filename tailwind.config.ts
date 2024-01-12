@@ -19,7 +19,7 @@ const config: Config = {
           "0%": { top: "-2.5%" },
           "50%": { top: "103%" },
           "100%": { top: "-2.5%" },
-        }
+        },
       },
       colors: {
         "light": "#ffffffdf",
