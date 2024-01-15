@@ -10,6 +10,9 @@ const config: Config = {
     extend: {
       backgroundImage: {
       },
+      fontSize: {
+        "2xs": "10px",
+      },
       fontFamily: {
         "quickSand": ['Quicksand', 'sans-serif'],
         "notoSans": ['Noto Sans', 'sans-serif'],

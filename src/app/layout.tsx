@@ -17,7 +17,7 @@ export default function RootLayout({
   return (
     <html lang="pt-br">
       <body
-        className={`${inter.className} flex flex-col container bg-primaryBg mx-auto py-20 px-10 gap-20 text-textColor xl:px-20  lg:gap-0 `}
+        className={`${inter.className} flex flex-col container bg-primaryBg mx-auto py-20 px-10 gap-20 text-textColor xl:px-20 lg:gap-0 max-sm:px-6`}
       >
         {children}
       </body>

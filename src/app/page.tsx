@@ -1,5 +1,4 @@
 import AboutMe from "@/components/AboutMe"
-import NavBar from "@/components/NavBar"
 import Contact from "@/components/Contact"
 import Skills from "@/components/Skills"
 import Projects from "@/components/Projects"
@@ -7,10 +6,9 @@ import Projects from "@/components/Projects"
 const HomePage = () => {
   return (
     <>
-      <div className="flex flex-col lg:flex-row lg:mb-[120px]">
+      <div className="flex flex-col lg:flex-row lg:mb-[120px] max-lg:gap-20">
         <header className="flex flex-col lg:w-1/2">
           <AboutMe />
-          {/* <NavBar /> */}
           <Contact />
         </header>
 
